@@ -1,5 +1,6 @@
 {
   "HasProblem": false,
   "ForceUpdate": false,
-  "Problem": "Nothing" 
+  "Problem": "Nothing",
+  "Version": "0.0.0"
 }
