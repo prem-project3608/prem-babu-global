@@ -1,6 +1,6 @@
 {
-  "HasProblem": false,
-  "ForceUpdate": false,
+  "HasProblem": true,
+  "ForceUpdate": true,
   "Problem": "Small problem but big",
-  "Version": "1.2.6"
+  "Version": "1.2.7"
 }
