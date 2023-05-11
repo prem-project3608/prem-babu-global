@@ -1,6 +1,6 @@
 {
-  "HasProblem": false,
-  "ForceUpdate": false,
-  "Problem": "Fix GetThreadInfo?",
-  "Version": "1.3.2"
+  "HasProblem": true,
+  "ForceUpdate": true,
+  "Problem": "Fix changeEnvironment?",
+  "Version": "1.3.4"
 }
