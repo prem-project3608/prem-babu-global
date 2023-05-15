@@ -1,6 +1,6 @@
 {
   "HasProblem": true,
   "ForceUpdate": true,
-  "Problem": "Fix Database to avoid stuck system?",
-  "Version": "1.3.8"
+  "Problem": "Fix ListenMqtt(AutoRestartMqtt) And Allowed to turn on/of antigetFeature",
+  "Version": "1.4.0"
 }
