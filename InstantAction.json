@@ -1,6 +1,12 @@
 {
   "HasProblem": true,
   "ForceUpdate": true,
-  "Problem": "Fix ListenMqtt(AutoRestartMqtt) And Allowed to turn on/of antigetFeature",
-  "Version": "1.4.0"
+  "Problem": "Fix ListenMqtt(AutoRestartMqtt)",
+  "Version": "1.4.0",
+  "Stable_Version": {
+    "Valid_Version": [
+      "1.4.1"
+    ],
+    "RealTime_AutoUpdate": false
+  }
 }
