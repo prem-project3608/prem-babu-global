@@ -1,6 +1,6 @@
 {
   "HasProblem": false,
-  "ForceUpdate": false,
+  "ForceUpdate": true,
   "Problem": "Update",
   "Version": "1.4.7",
   "Stable_Version": {
@@ -9,7 +9,8 @@
       "1.4.3",
       "1.4.5",
       "1.4.6",
-      "1.4.7"
+      "1.4.7",
+      "1.4.8"
     ],
     "RealTime_AutoUpdate": false
   }
