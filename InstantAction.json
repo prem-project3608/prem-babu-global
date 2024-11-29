@@ -2,7 +2,7 @@
   "HasProblem": true,
   "ForceUpdate": true,
   "Problem": "Update",
-  "Version": "1.5.2",
+  "Version": "2.0.2",
   "Stable_Version": {
     "Valid_Version": [
       "1.4.1",
@@ -11,7 +11,8 @@
       "1.4.6",
       "1.4.7",
       "1.4.8",
-      "1.5.2"
+      "1.5.2",
+      "2.0.2"
     ],
     "RealTime_AutoUpdate": false
   }
